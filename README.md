@@ -243,15 +243,6 @@ Using this single scenario, different diagrams show different aspects of the sam
 
 ---
 
-## Visual Paradigm (Highly Recommended)
-
-- UML Tutorials: https://guides.visual-paradigm.com/category/uml/
-- Class Diagram Tutorial: https://guides.visual-paradigm.com/class-diagram-tutorial/
-- Sequence Diagram Tutorial: https://guides.visual-paradigm.com/sequence-diagram-tutorial/
-- State Machine Diagram Tutorial: https://guides.visual-paradigm.com/state-machine-diagram-tutorial/
-
----
-
 ## Lucidchart
 
 - https://www.lucidchart.com/pages/uml-diagrams
@@ -269,12 +260,6 @@ Excellent visual examples of:
 ## GeeksforGeeks
 
 https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/
-
----
-
-## Microsoft Learn
-
-https://learn.microsoft.com
 
 ---
 
@@ -298,51 +283,17 @@ https://www.lucidchart.com/pages/user-journey-map
 
 https://app.diagrams.net
 
-✔ Free
-
-✔ Browser-based
-
-✔ Supports UML
-
 ---
 
 ### Visual Paradigm Online
 
 https://online.visual-paradigm.com
 
-✔ Excellent UML support
-
-✔ Beginner friendly
-
 ---
 
 ### Lucidchart
 
 https://www.lucidchart.com
-
-✔ Collaborative
-
-✔ Professional templates
-
----
-
-# Suggested Learning Order
-
-For beginners, study the diagrams in the following order:
-
-1. UX Journey Diagram
-2. Use Case Diagram
-3. Class Diagram
-4. Sequence Diagram
-5. State Diagram
-
-This order follows the natural software development process:
-
-- Understand the user.
-- Understand what the system should do.
-- Design the system.
-- Design object interactions.
-- Model object behaviour.
 
 ---
 
@@ -356,3 +307,5 @@ Each diagram tells part of the same story.
 - **State Diagram** – Describes how an object's state changes over time.
 
 Professional software engineers often create multiple diagrams for the same system because each one provides a different perspective that helps stakeholders, developers, and testers understand the software.
+
+If there are any sites that are not working, please reach out to me.

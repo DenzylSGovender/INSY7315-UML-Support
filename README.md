@@ -56,8 +56,7 @@ It shows:
 ### Example
 
 ```
-<img width="891" height="958" alt="image" src="https://github.com/user-attachments/assets/8eda4f9f-224f-4fe2-8aa5-723bba79d8b2" />
-
+See Class Diagram in Images folder.
 ```
 
 ### Questions it answers
@@ -84,8 +83,7 @@ It focuses on:
 ### Example
 
 ```
-<img width="1679" height="986" alt="image" src="https://github.com/user-attachments/assets/87515765-b8b9-4b2f-ac6b-151c4e18e2c7" />
-
+See Sequence Diagram in Images folder.
 ```
 
 ### Questions it answers
@@ -105,8 +103,7 @@ A State Diagram illustrates how a single object changes state during its lifetim
 ### Example
 
 ```
-     <img width="829" height="921" alt="image" src="https://github.com/user-attachments/assets/2ea0c733-d2ee-4620-a86c-a91f508883c6" />
-
+    See State Diagram in Images folder.
 ```
 
 ### Questions it answers
@@ -127,8 +124,7 @@ Unlike UML, it models the user's journey rather than the software itself.
 ### Example
 
 ```
-<img width="1675" height="378" alt="image" src="https://github.com/user-attachments/assets/059efe5b-b0d1-4bb7-a224-15db907f7c61" />
-
+See UX Journey Diagram in Images folder.
 ```
 
 Alternative outcomes:

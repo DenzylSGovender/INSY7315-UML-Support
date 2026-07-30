@@ -56,29 +56,8 @@ It shows:
 ### Example
 
 ```
-+----------------+
-|    Student     |
-+----------------+
-| -studentID     |
-| -name          |
-+----------------+
-| +borrowBook()  |
-+----------------+
+<img width="891" height="958" alt="image" src="https://github.com/user-attachments/assets/8eda4f9f-224f-4fe2-8aa5-723bba79d8b2" />
 
-         |
-         | borrows
-         |
-         V
-
-+----------------+
-|      Book      |
-+----------------+
-| -bookID        |
-| -title         |
-| -available     |
-+----------------+
-| +checkStatus() |
-+----------------+
 ```
 
 ### Questions it answers
@@ -105,16 +84,8 @@ It focuses on:
 ### Example
 
 ```
-Student        Librarian          Book
-   |                |               |
-   | Borrow Book    |               |
-   |--------------->|               |
-   |                | Check Status  |
-   |                |-------------->|
-   |                | Available     |
-   |                |<--------------|
-   |                | Issue Book    |
-   |<---------------|               |
+<img width="1679" height="986" alt="image" src="https://github.com/user-attachments/assets/87515765-b8b9-4b2f-ac6b-151c4e18e2c7" />
+
 ```
 
 ### Questions it answers
@@ -134,23 +105,8 @@ A State Diagram illustrates how a single object changes state during its lifetim
 ### Example
 
 ```
-        +-----------+
-        | Available |
-        +-----------+
-              |
-        Borrow Book
-              |
-              V
-        +-----------+
-        | Borrowed  |
-        +-----------+
-              |
-        Return Book
-              |
-              V
-        +-----------+
-        | Available |
-        +-----------+
+     <img width="829" height="921" alt="image" src="https://github.com/user-attachments/assets/2ea0c733-d2ee-4620-a86c-a91f508883c6" />
+
 ```
 
 ### Questions it answers
@@ -171,22 +127,8 @@ Unlike UML, it models the user's journey rather than the software itself.
 ### Example
 
 ```
-Start
-   |
-   v
-Search Book
-   |
-   v
-Select Book
-   |
-   v
-Borrow Book
-   |
-   v
-Receive Confirmation
-   |
-   v
-End
+<img width="1675" height="378" alt="image" src="https://github.com/user-attachments/assets/059efe5b-b0d1-4bb7-a224-15db907f7c61" />
+
 ```
 
 Alternative outcomes:
@@ -268,12 +210,6 @@ https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/
 ## Nielsen Norman Group
 
 https://www.nngroup.com/articles/journey-mapping-101/
-
----
-
-## Lucidchart User Journey Maps
-
-https://www.lucidchart.com/pages/user-journey-map
 
 ---
 
